@@ -1,12 +1,17 @@
 # 🐦 Tweet Removal Tool
 
+A modern browser-based Chrome extension for reviewing and deleting tweets from your own authenticated account on X (formerly Twitter). The tool runs entirely inside your active browser session and provides a visual, manual interface for selective bulk deletion.
+
+> **Disclaimer:** This project is not affiliated with, endorsed by, or supported by Twitter/X. It only uses available browser sessions and official API endpoints to facilitate manual tweet management.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
 [![Chrome Version](https://img.shields.io/badge/Chrome-88%2B-blue)](https://www.google.com/chrome/) 
 [![Platform Support](https://img.shields.io/badge/Platforms-Chrome%2C%20Edge%2C%20Brave%2C%20Opera%2C%20Vivaldi-green)](https://www.google.com/chrome/)
 
-A modern browser-based Chrome extension for reviewing and deleting tweets from your own authenticated account on X (formerly Twitter). The tool runs entirely inside your active browser session and provides a visual, manual interface for selective bulk deletion.
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/1132546702/51f2600e-ef7f-4389-b2c0-7ccf84c258fb" alt="Tweet Removal Tool Preview" width="800">
+</p>
 
-> **Disclaimer:** This project is not affiliated with, endorsed by, or supported by Twitter/X. It only uses available browser sessions and official API endpoints to facilitate manual tweet management.
 
 ---
 
