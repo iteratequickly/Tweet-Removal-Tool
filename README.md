@@ -8,9 +8,12 @@ A modern, local-first Chrome extension for reviewing and selectively deleting tw
 
 > **Disclaimer:** This project is not affiliated with, endorsed by, or supported by Twitter/X. It operates locally within your browser to facilitate manual tweet management using official web endpoints.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
-[![Chrome Version](https://img.shields.io/badge/Chrome-88%2B-blue)](https://www.google.com/chrome/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/iteratequickly/Tweet-Removal-Tool/total.svg?label=Downloads)](https://github.com/iteratequickly/Tweet-Removal-Tool/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/iteratequickly/Tweet-Removal-Tool)](https://github.com/iteratequickly/Tweet-Removal-Tool/releases)
+[![Chrome Version](https://img.shields.io/badge/Chrome-88%2B-blue)](https://www.google.com/chrome/)
 [![Platform Support](https://img.shields.io/badge/Platforms-Chrome%2C%20Edge%2C%20Brave%2C%20Opera%2C%20Vivaldi-green)](https://www.google.com/chrome/)
+
 
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/1132546702/51f2600e-ef7f-4389-b2c0-7ccf84c258fb" alt="Tweet Removal Tool Preview" width="800">
