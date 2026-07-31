@@ -35,6 +35,20 @@ Most tweet deletion services are either **paid**, **server-based**, or **all-or-
 
 ---
 
+## 🙌 Thank You
+
+Thanks to everyone who's downloaded and used this tool (see the badge above)! It genuinely means a lot to see people finding it useful.
+
+If the tool has helped you clean up your X history, consider:
+
+- ⭐ **Starring the repo**, since it helps others discover the project
+- 🔀 **Contributing** a PR if you'd like to help improve it
+- 📢 **Sharing it** with anyone else looking for a free, private way to manage their tweets
+
+Every bit of support helps keep this project going. Thanks again! 🐦
+
+---
+
 ## 🚀 Getting Started
 
 ### Installation
@@ -457,7 +471,7 @@ Bulk or repetitive actions may conflict with platform Terms of Service regarding
 This software is provided "as-is", without warranty of any kind. The authors are not responsible for account restrictions, suspensions, or data loss resulting from the use of this tool.  
 
 ### Licence
-This project is licensed under the **MIT Licence**. See the [LICENCE](LICENCE) file for details.
+This project is licensed under the **MIT Licence**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
